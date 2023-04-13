@@ -38,8 +38,13 @@ export const About = () => {
               <h5>Projects</h5>
               <small>80+ Completed Projects</small>
             </article>
-
           </div>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam in, reiciendis blanditiis qui sit, ipsam sed aspernatur cumque eum tempore ad officia accusamus voluptatibus asperiores? Iusto 
+            nulla minus dignissimos obcaecati! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quo porro similique nihil nemo quod neque ullam. Nisi, vel! Aliquam ea culpa inventore 
+            aliquid rem ex beatae molestiae eveniet doloribus?
+          </p>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
