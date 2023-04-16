@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e696edf0.css",
+    "main.js": "/react-gh-pages/static/js/main.dd791b5e.js",
+    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.28735a91d739ad9daf41.pdf",
+    "static/media/solid-concrete-wall-textured-backdrop_53876-129493.avif": "/react-gh-pages/static/media/solid-concrete-wall-textured-backdrop_53876-129493.9af966f4bddaeb2cf88c.avif",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e696edf0.css.map": "/react-gh-pages/static/css/main.e696edf0.css.map",
+    "main.dd791b5e.js.map": "/react-gh-pages/static/js/main.dd791b5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e696edf0.css",
+    "static/js/main.dd791b5e.js"
+  ]
+}
