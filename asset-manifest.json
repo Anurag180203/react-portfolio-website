@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e696edf0.css",
-    "main.js": "/react-gh-pages/static/js/main.dd791b5e.js",
-    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.28735a91d739ad9daf41.pdf",
-    "static/media/solid-concrete-wall-textured-backdrop_53876-129493.avif": "/react-gh-pages/static/media/solid-concrete-wall-textured-backdrop_53876-129493.9af966f4bddaeb2cf88c.avif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e696edf0.css.map": "/react-gh-pages/static/css/main.e696edf0.css.map",
-    "main.dd791b5e.js.map": "/react-gh-pages/static/js/main.dd791b5e.js.map"
+    "main.css": "/static/css/main.389a9f31.css",
+    "main.js": "/static/js/main.d7e45d92.js",
+    "static/media/CV.pdf": "/static/media/CV.28735a91d739ad9daf41.pdf",
+    "static/media/solid-concrete-wall-textured-backdrop_53876-129493.avif": "/static/media/solid-concrete-wall-textured-backdrop_53876-129493.9af966f4bddaeb2cf88c.avif",
+    "index.html": "/index.html",
+    "main.389a9f31.css.map": "/static/css/main.389a9f31.css.map",
+    "main.d7e45d92.js.map": "/static/js/main.d7e45d92.js.map"
   },
   "entrypoints": [
-    "static/css/main.e696edf0.css",
-    "static/js/main.dd791b5e.js"
+    "static/css/main.389a9f31.css",
+    "static/js/main.d7e45d92.js"
   ]
 }
