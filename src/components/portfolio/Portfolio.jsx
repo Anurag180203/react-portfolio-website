@@ -64,7 +64,7 @@ export const Portfolio = () => {
             <h3>{title}</h3>
             <div className="portfolio__item-cta">
             <a href={github} className='btn' target='_blank'>Github</a>
-            <a href={demo} target='_blank'>Live Demo</a>
+            <a className='btn btn-primary' href={demo} target='_blank'>Live Demo</a>
             </div>
         </article>)
             )
